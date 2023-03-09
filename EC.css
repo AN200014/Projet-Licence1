@@ -1,0 +1,35 @@
+body
+{
+	background-image: url(ec.jpg);
+	background-image: cover;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.right
+{
+  text-align: right;
+}
+.topnav
+{
+	overflow: hidden;
+	background: #333;
+}
+.topnav a
+{
+	float: left;
+	color: white;
+	text-align: center;
+	padding:  15px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.topnav a:hover
+{
+	background-color:#ddd; 
+
+}
+nav img{
+     height: 200%.
+     width:200px;
+     margin-left: 90px;
+}
